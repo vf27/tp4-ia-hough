@@ -18,8 +18,8 @@ Corresponde al Trabajo Practico 4 de Inteligencia Artificial.
 - numpy
 
 ## Ejecucion
-pip install opencv-python numpy
-python hough_rectas.py
-python hough_circunferencias.py
+- pip install opencv-python numpy
+- python hough_rectas.py
+- python hough_circunferencias.py
 
 Cada script carga `motor.png`, la procesa y guarda las imagenes resultantes en la carpeta del proyecto.
